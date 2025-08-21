@@ -1,0 +1,17 @@
+| Name | Ordinal | Forwarder | RVA/Addr |
+| --- | --- | --- | --- |
+| DllCanUnloadNow | 1 |  | 0x23f30 |
+| DllGetClassObject | 2 |  | 0x23f40 |
+| DllRegisterServer | 3 |  | 0x24050 |
+| DllUnregisterServer | 4 |  | 0x24100 |
+| GetTableNumRows | 5 |  | 0x480d0 |
+| GetValDbl | 6 |  | 0x48210 |
+| GetValInt | 7 |  | 0x48220 |
+| Load | 8 |  | 0x48230 |
+| RastrCreate | 9 |  | 0x48350 |
+| Rgm | 10 |  | 0x48460 |
+| Save | 11 |  | 0x48560 |
+| SetValDbl | 12 |  | 0x48680 |
+| SetValInt | 13 |  | 0x486b0 |
+| WriteFileInf | 14 |  | 0x486c0 |
+| test | 15 |  | 0x48f00 |
