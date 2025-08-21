@@ -1,0 +1,17 @@
+LIBRARY "astra"
+EXPORTS
+    DllCanUnloadNow=astra_.DllCanUnloadNow @1
+    DllGetClassObject=astra_.DllGetClassObject @2
+    DllRegisterServer=astra_.DllRegisterServer @3
+    DllUnregisterServer=astra_.DllUnregisterServer @4
+    GetTableNumRows=astra_.GetTableNumRows @5
+    GetValDbl=astra_.GetValDbl @6
+    GetValInt=astra_.GetValInt @7
+    Load=astra_.Load @8
+    RastrCreate=astra_.RastrCreate @9
+    Rgm=astra_.Rgm @10
+    Save=astra_.Save @11
+    SetValDbl=astra_.SetValDbl @12
+    SetValInt=astra_.SetValInt @13
+    WriteFileInf=astra_.WriteFileInf @14
+    test=astra_.test @15

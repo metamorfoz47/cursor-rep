@@ -1,0 +1,327 @@
+| DLL | Name | Ordinal | Hint |
+| --- | --- | --- | --- |
+| mk4vc22.dll | ?GetAs@c4_Storage@@QAE?AVc4_View@@PBD@Z |  | 266 |
+| mk4vc22.dll | ??0c4_Bytes@@QAE@ABV0@@Z |  | 0 |
+| mk4vc22.dll | ?View@c4_Storage@@QAE?AVc4_ViewRef@@PBD@Z |  | 377 |
+| mk4vc22.dll | ?InsertAt@c4_View@@QAEXHABV1@@Z |  | 284 |
+| mk4vc22.dll | ?SetBuffer@c4_Bytes@@QAEPAEH@Z |  | 357 |
+| mk4vc22.dll | ??1c4_Row@@QAE@XZ |  | 68 |
+| mk4vc22.dll | ??0c4_Row@@QAE@XZ |  | 30 |
+| mk4vc22.dll | ?Find@c4_View@@QBEHABVc4_RowRef@@H@Z |  | 251 |
+| mk4vc22.dll | ??Bc4_StringRef@@QBEPBDXZ |  | 152 |
+| mk4vc22.dll | ??1c4_Property@@QAE@XZ |  | 67 |
+| mk4vc22.dll | ?DecRef@c4_Sequence@@QAEXXZ |  | 237 |
+| mk4vc22.dll | ?Description@c4_Storage@@QAEPBDPBD@Z |  | 239 |
+| mk4vc22.dll | ?Resize@c4_Sequence@@QAEXHH@Z |  | 335 |
+| mk4vc22.dll | ??Bc4_IntRef@@QBEJXZ |  | 148 |
+| mk4vc22.dll | ??4c4_IntRef@@QAEAAV0@J@Z |  | 98 |
+| mk4vc22.dll | ??Bc4_DoubleRef@@QBENXZ |  | 146 |
+| mk4vc22.dll | ??4c4_DoubleRef@@QAEAAV0@N@Z |  | 88 |
+| mk4vc22.dll | ??4c4_StringRef@@QAEAAV0@PBD@Z |  | 114 |
+| mk4vc22.dll | ??Bc4_ViewRef@@QBE?AVc4_View@@XZ |  | 153 |
+| mk4vc22.dll | ??4c4_Reference@@QAEAAV0@ABV0@@Z |  | 103 |
+| mk4vc22.dll | ??0c4_View@@QAE@ABV0@@Z |  | 51 |
+| mk4vc22.dll | ??4c4_View@@QAEAAV0@ABV0@@Z |  | 115 |
+| mk4vc22.dll | ?Add@c4_View@@QAEHABVc4_RowRef@@@Z |  | 203 |
+| mk4vc22.dll | ??0c4_Row@@QAE@ABVc4_RowRef@@@Z |  | 29 |
+| mk4vc22.dll | ?SetAt@c4_Sequence@@QAEXHVc4_Cursor@@@Z |  | 353 |
+| mk4vc22.dll | ?FindPropIndexByName@c4_View@@QBEHPBD@Z |  | 253 |
+| mk4vc22.dll | ??0c4_Property@@QAE@DPBD@Z |  | 26 |
+| mk4vc22.dll | ?SetStructure@c4_Storage@@QAEXPBD@Z |  | 363 |
+| mk4vc22.dll | ??1c4_Storage@@QAE@XZ |  | 70 |
+| mk4vc22.dll | ??0c4_Storage@@QAE@PBDH@Z |  | 36 |
+| mk4vc22.dll | ?Select@c4_View@@QBE?AV1@ABVc4_RowRef@@@Z |  | 343 |
+| mk4vc22.dll | ??0c4_View@@QAE@PAVc4_Sequence@@@Z |  | 54 |
+| mk4vc22.dll | ?AddProperty@c4_View@@QAEHABVc4_Property@@@Z |  | 204 |
+| mk4vc22.dll | ??0c4_Property@@QAE@ABV0@@Z |  | 24 |
+| mk4vc22.dll | ??4c4_Property@@QAEXABV0@@Z |  | 102 |
+| mk4vc22.dll | ?Rollback@c4_Storage@@QAE_N_N@Z |  | 340 |
+| mk4vc22.dll | ?Name@c4_Property@@QBEPBDXZ |  | 305 |
+| mk4vc22.dll | ?Commit@c4_Storage@@QAE_N_N@Z |  | 219 |
+| oldfil.dll | ?read_rge@@YAHPAUIRastr@@PBD@Z |  | 7 |
+| oldfil.dll | ?read_cxe@@YAHPAUIRastr@@PBD@Z |  | 3 |
+| oldfil.dll | ?calc_zamer@@YAHPAUIRastr@@J@Z |  | 0 |
+| oldfil.dll | ?read_m_ssp@@YAHPAUIRastr@@PAD@Z |  | 5 |
+| oldfil.dll | ?write_m_ssp@@YAHPAUIRastr@@PAD@Z |  | 9 |
+| oldfil.dll | ?read_psse@@YAHPAUIRastr@@PAD@Z |  | 6 |
+| oldfil.dll | ?write_psse@@YAHPAUIRastr@@PAD@Z |  | 10 |
+| oldfil.dll | ?read_eurostag@@YAHPAUIRastr@@PAD@Z |  | 4 |
+| oldfil.dll | ?write_eurostag@@YAHPAUIRastr@@PADJ@Z |  | 8 |
+| oldfil.dll | ?read_Tkz3000_@@YAHPAUIRastr@@PA_W@Z |  | 2 |
+| oldfil.dll | ?combine_files@@YAHPAUIRastr@@@Z |  | 1 |
+| WINMM.dll | timeGetTime |  | 148 |
+| WS2_32.dll | connect | 4 | None |
+| WS2_32.dll | htons | 9 | None |
+| WS2_32.dll | inet_addr | 11 | None |
+| WS2_32.dll | send | 19 | None |
+| WS2_32.dll | socket | 23 | None |
+| WS2_32.dll | WSAStartup | 115 | None |
+| WS2_32.dll | WSACleanup | 116 | None |
+| WS2_32.dll | closesocket | 3 | None |
+| KERNEL32.dll | EnumSystemLocalesW |  | 343 |
+| KERNEL32.dll | GetUserDefaultLCID |  | 789 |
+| KERNEL32.dll | IsValidLocale |  | 913 |
+| KERNEL32.dll | GetLocaleInfoW |  | 616 |
+| KERNEL32.dll | LCMapStringW |  | 949 |
+| KERNEL32.dll | CompareStringW |  | 158 |
+| KERNEL32.dll | GetTimeFormatW |  | 783 |
+| KERNEL32.dll | GetDateFormatW |  | 548 |
+| KERNEL32.dll | SetFilePointerEx |  | 1317 |
+| KERNEL32.dll | HeapValidate |  | 852 |
+| KERNEL32.dll | ExitProcess |  | 353 |
+| KERNEL32.dll | GetConsoleOutputCP |  | 515 |
+| KERNEL32.dll | ReadConsoleW |  | 1138 |
+| KERNEL32.dll | GetConsoleMode |  | 511 |
+| KERNEL32.dll | GetFileType |  | 593 |
+| KERNEL32.dll | SetStdHandle |  | 1358 |
+| KERNEL32.dll | SystemTimeToTzSpecificLocalTime |  | 1421 |
+| KERNEL32.dll | GetModuleHandleExW |  | 634 |
+| KERNEL32.dll | FreeLibraryAndExitThread |  | 431 |
+| KERNEL32.dll | ExitThread |  | 354 |
+| KERNEL32.dll | CreateThread |  | 246 |
+| KERNEL32.dll | VirtualQuery |  | 1490 |
+| KERNEL32.dll | VirtualProtect |  | 1488 |
+| KERNEL32.dll | VirtualAlloc |  | 1482 |
+| KERNEL32.dll | LoadLibraryExW |  | 967 |
+| KERNEL32.dll | TlsFree |  | 1443 |
+| KERNEL32.dll | TlsSetValue |  | 1445 |
+| KERNEL32.dll | TlsGetValue |  | 1444 |
+| KERNEL32.dll | TlsAlloc |  | 1442 |
+| KERNEL32.dll | InitializeCriticalSectionAndSpinCount |  | 866 |
+| KERNEL32.dll | InterlockedFlushSList |  | 879 |
+| KERNEL32.dll | InterlockedPushEntrySList |  | 882 |
+| KERNEL32.dll | RtlUnwind |  | 1237 |
+| KERNEL32.dll | GetStartupInfoW |  | 723 |
+| KERNEL32.dll | InitializeSListHead |  | 870 |
+| KERNEL32.dll | SetUnhandledExceptionFilter |  | 1393 |
+| KERNEL32.dll | UnhandledExceptionFilter |  | 1457 |
+| KERNEL32.dll | GetCPInfo |  | 452 |
+| KERNEL32.dll | CompareStringEx |  | 156 |
+| KERNEL32.dll | GetStringTypeW |  | 730 |
+| KERNEL32.dll | EncodePointer |  | 304 |
+| KERNEL32.dll | DecodePointer |  | 268 |
+| KERNEL32.dll | CloseHandle |  | 137 |
+| KERNEL32.dll | RaiseException |  | 1124 |
+| KERNEL32.dll | GetLastError |  | 612 |
+| KERNEL32.dll | HeapDestroy |  | 843 |
+| KERNEL32.dll | HeapAlloc |  | 840 |
+| KERNEL32.dll | HeapReAlloc |  | 847 |
+| KERNEL32.dll | HeapFree |  | 844 |
+| KERNEL32.dll | HeapSize |  | 849 |
+| KERNEL32.dll | GetProcessHeap |  | 695 |
+| KERNEL32.dll | EnterCriticalSection |  | 308 |
+| KERNEL32.dll | LeaveCriticalSection |  | 961 |
+| KERNEL32.dll | InitializeCriticalSectionEx |  | 867 |
+| KERNEL32.dll | DeleteCriticalSection |  | 275 |
+| KERNEL32.dll | CreateEventA |  | 191 |
+| KERNEL32.dll | IsProcessorFeaturePresent |  | 905 |
+| KERNEL32.dll | DisableThreadLibraryCalls |  | 289 |
+| KERNEL32.dll | FreeLibrary |  | 430 |
+| KERNEL32.dll | GetModuleFileNameA |  | 630 |
+| KERNEL32.dll | GetModuleHandleA |  | 632 |
+| KERNEL32.dll | GetModuleHandleW |  | 635 |
+| KERNEL32.dll | GetProcAddress |  | 689 |
+| KERNEL32.dll | LoadLibraryExA |  | 966 |
+| KERNEL32.dll | LoadResource |  | 971 |
+| KERNEL32.dll | SizeofResource |  | 1408 |
+| KERNEL32.dll | LoadLibraryA |  | 965 |
+| KERNEL32.dll | lstrcmpiA |  | 1590 |
+| KERNEL32.dll | FindResourceA |  | 406 |
+| KERNEL32.dll | MultiByteToWideChar |  | 1011 |
+| KERNEL32.dll | WideCharToMultiByte |  | 1538 |
+| KERNEL32.dll | IsDBCSLeadByte |  | 896 |
+| KERNEL32.dll | SetEvent |  | 1304 |
+| KERNEL32.dll | ResetEvent |  | 1224 |
+| KERNEL32.dll | WaitForSingleObject |  | 1499 |
+| KERNEL32.dll | GetExitCodeThread |  | 576 |
+| KERNEL32.dll | QueryPerformanceCounter |  | 1103 |
+| KERNEL32.dll | LocalAlloc |  | 974 |
+| KERNEL32.dll | LocalFree |  | 979 |
+| KERNEL32.dll | GetStdHandle |  | 725 |
+| KERNEL32.dll | GetVolumeInformationA |  | 799 |
+| KERNEL32.dll | GetSystemTime |  | 746 |
+| KERNEL32.dll | GetComputerNameA |  | 479 |
+| KERNEL32.dll | GetSystemDefaultLCID |  | 734 |
+| KERNEL32.dll | FileTimeToLocalFileTime |  | 364 |
+| KERNEL32.dll | FileTimeToSystemTime |  | 365 |
+| KERNEL32.dll | GetDateFormatA |  | 545 |
+| KERNEL32.dll | GetTimeFormatA |  | 780 |
+| KERNEL32.dll | WriteConsoleW |  | 1557 |
+| KERNEL32.dll | GetFileSize |  | 590 |
+| KERNEL32.dll | GetSystemInfo |  | 742 |
+| KERNEL32.dll | FormatMessageW |  | 426 |
+| KERNEL32.dll | LoadLibraryW |  | 968 |
+| KERNEL32.dll | GetTempPathA |  | 760 |
+| KERNEL32.dll | CreateFileA |  | 198 |
+| KERNEL32.dll | DeleteFileA |  | 277 |
+| KERNEL32.dll | FindClose |  | 376 |
+| KERNEL32.dll | FindFirstFileA |  | 380 |
+| KERNEL32.dll | FindNextFileA |  | 397 |
+| KERNEL32.dll | SetEndOfFile |  | 1298 |
+| KERNEL32.dll | SetFilePointer |  | 1316 |
+| KERNEL32.dll | GetCurrentProcessId |  | 539 |
+| KERNEL32.dll | GetLocalTime |  | 613 |
+| KERNEL32.dll | MapViewOfFile |  | 994 |
+| KERNEL32.dll | UnmapViewOfFile |  | 1460 |
+| KERNEL32.dll | lstrlenA |  | 1599 |
+| KERNEL32.dll | CreateFileMappingA |  | 199 |
+| KERNEL32.dll | CopyFileA |  | 171 |
+| KERNEL32.dll | MoveFileA |  | 1002 |
+| KERNEL32.dll | CreateDirectoryA |  | 184 |
+| KERNEL32.dll | GetVersionExA |  | 797 |
+| KERNEL32.dll | GlobalMemoryStatus |  | 828 |
+| KERNEL32.dll | GetTimeZoneInformation |  | 785 |
+| KERNEL32.dll | GetModuleFileNameW |  | 631 |
+| KERNEL32.dll | GlobalMemoryStatusEx |  | 829 |
+| KERNEL32.dll | GetComputerNameExA |  | 480 |
+| KERNEL32.dll | QueryPerformanceFrequency |  | 1104 |
+| KERNEL32.dll | GetCurrentThreadId |  | 543 |
+| KERNEL32.dll | FindResourceExW |  | 408 |
+| KERNEL32.dll | LockResource |  | 991 |
+| KERNEL32.dll | FindResourceW |  | 409 |
+| KERNEL32.dll | GetCurrentProcess |  | 538 |
+| KERNEL32.dll | OutputDebugStringA |  | 1050 |
+| KERNEL32.dll | ReleaseMutex |  | 1202 |
+| KERNEL32.dll | WaitForSingleObjectEx |  | 1500 |
+| KERNEL32.dll | CreateMutexA |  | 218 |
+| KERNEL32.dll | Sleep |  | 1409 |
+| KERNEL32.dll | GetExitCodeProcess |  | 575 |
+| KERNEL32.dll | CreateProcessA |  | 227 |
+| KERNEL32.dll | GetProcessId |  | 697 |
+| KERNEL32.dll | OpenProcess |  | 1039 |
+| KERNEL32.dll | GetTickCount |  | 778 |
+| KERNEL32.dll | GetPhysicallyInstalledSystemMemory |  | 677 |
+| KERNEL32.dll | K32EnumProcesses |  | 925 |
+| KERNEL32.dll | K32GetProcessMemoryInfo |  | 940 |
+| KERNEL32.dll | K32GetProcessImageFileNameA |  | 938 |
+| KERNEL32.dll | GetFullPathNameA |  | 601 |
+| KERNEL32.dll | ReadFile |  | 1141 |
+| KERNEL32.dll | WriteFile |  | 1558 |
+| KERNEL32.dll | SetFileAttributesA |  | 1308 |
+| KERNEL32.dll | GetPrivateProfileStringA |  | 685 |
+| KERNEL32.dll | WritePrivateProfileStringA |  | 1563 |
+| KERNEL32.dll | WaitForMultipleObjects |  | 1497 |
+| KERNEL32.dll | GetTempFileNameA |  | 758 |
+| KERNEL32.dll | CompareFileTime |  | 154 |
+| KERNEL32.dll | SetLastError |  | 1332 |
+| KERNEL32.dll | LCMapStringEx |  | 948 |
+| KERNEL32.dll | GetNativeSystemInfo |  | 648 |
+| KERNEL32.dll | SleepConditionVariableSRW |  | 1411 |
+| KERNEL32.dll | WakeAllConditionVariable |  | 1507 |
+| KERNEL32.dll | WakeConditionVariable |  | 1508 |
+| KERNEL32.dll | InitializeConditionVariable |  | 862 |
+| KERNEL32.dll | CreateSymbolicLinkW |  | 244 |
+| KERNEL32.dll | FlushFileBuffers |  | 418 |
+| KERNEL32.dll | GetFileSizeEx |  | 591 |
+| KERNEL32.dll | DeleteFileW |  | 280 |
+| KERNEL32.dll | IsValidCodePage |  | 911 |
+| KERNEL32.dll | GetACP |  | 437 |
+| KERNEL32.dll | GetOEMCP |  | 666 |
+| KERNEL32.dll | GetCommandLineA |  | 473 |
+| KERNEL32.dll | GetCommandLineW |  | 474 |
+| KERNEL32.dll | GetEnvironmentStringsW |  | 570 |
+| KERNEL32.dll | FreeEnvironmentStringsW |  | 429 |
+| KERNEL32.dll | SetEnvironmentVariableW |  | 1302 |
+| KERNEL32.dll | FormatMessageA |  | 425 |
+| KERNEL32.dll | TerminateProcess |  | 1424 |
+| KERNEL32.dll | GetFileInformationByHandleEx |  | 587 |
+| KERNEL32.dll | CreateHardLinkW |  | 210 |
+| KERNEL32.dll | MoveFileExW |  | 1004 |
+| KERNEL32.dll | CopyFileW |  | 176 |
+| KERNEL32.dll | GetSystemTimeAsFileTime |  | 748 |
+| KERNEL32.dll | DeviceIoControl |  | 288 |
+| KERNEL32.dll | AreFileApisANSI |  | 35 |
+| KERNEL32.dll | GetTempPathW |  | 761 |
+| KERNEL32.dll | SetFileInformationByHandle |  | 1314 |
+| KERNEL32.dll | GetFinalPathNameByHandleW |  | 595 |
+| KERNEL32.dll | GetFileInformationByHandle |  | 586 |
+| KERNEL32.dll | GetFileAttributesExW |  | 581 |
+| KERNEL32.dll | GetFileAttributesW |  | 584 |
+| KERNEL32.dll | GetDiskFreeSpaceExW |  | 555 |
+| KERNEL32.dll | FindNextFileW |  | 399 |
+| KERNEL32.dll | FindFirstFileExW |  | 382 |
+| KERNEL32.dll | FindFirstFileW |  | 387 |
+| KERNEL32.dll | CreateFileW |  | 206 |
+| KERNEL32.dll | CreateDirectoryW |  | 189 |
+| KERNEL32.dll | GetCurrentDirectoryW |  | 532 |
+| KERNEL32.dll | GetLocaleInfoEx |  | 615 |
+| KERNEL32.dll | TryAcquireSRWLockExclusive |  | 1449 |
+| KERNEL32.dll | AcquireSRWLockExclusive |  | 0 |
+| KERNEL32.dll | ReleaseSRWLockExclusive |  | 1204 |
+| KERNEL32.dll | OutputDebugStringW |  | 1051 |
+| KERNEL32.dll | IsDebuggerPresent |  | 898 |
+| USER32.dll | MessageBoxW |  | 648 |
+| USER32.dll | MessageBeep |  | 640 |
+| USER32.dll | MsgWaitForMultipleObjectsEx |  | 656 |
+| USER32.dll | GetActiveWindow |  | 282 |
+| USER32.dll | DispatchMessageA |  | 188 |
+| USER32.dll | GetMessageA |  | 387 |
+| USER32.dll | CharToOemA |  | 56 |
+| USER32.dll | OemToCharA |  | 660 |
+| USER32.dll | MessageBoxA |  | 641 |
+| USER32.dll | CharNextW |  | 52 |
+| USER32.dll | CharNextA |  | 50 |
+| USER32.dll | LoadStringA |  | 610 |
+| USER32.dll | PeekMessageA |  | 678 |
+| ADVAPI32.dll | CryptGenRandom |  | 210 |
+| ADVAPI32.dll | CryptReleaseContext |  | 220 |
+| ADVAPI32.dll | CryptAcquireContextA |  | 193 |
+| ADVAPI32.dll | GetUserNameA |  | 378 |
+| ADVAPI32.dll | RegSetValueExA |  | 680 |
+| ADVAPI32.dll | RegQueryValueExA |  | 664 |
+| ADVAPI32.dll | RegQueryInfoKeyW |  | 659 |
+| ADVAPI32.dll | RegQueryInfoKeyA |  | 658 |
+| ADVAPI32.dll | RegOpenKeyExA |  | 651 |
+| ADVAPI32.dll | RegEnumKeyExA |  | 633 |
+| ADVAPI32.dll | RegDeleteValueA |  | 626 |
+| ADVAPI32.dll | RegDeleteKeyA |  | 616 |
+| ADVAPI32.dll | RegCreateKeyExA |  | 611 |
+| ADVAPI32.dll | RegCloseKey |  | 603 |
+| SHELL32.dll | SHGetSpecialFolderPathA |  | 364 |
+| SHELL32.dll | SHGetFolderPathA |  | 331 |
+| SHELL32.dll | SHCreateDirectoryExA |  | 155 |
+| ole32.dll | CoCreateInstance |  | 40 |
+| ole32.dll | StringFromCLSID |  | 457 |
+| ole32.dll | StringFromGUID2 |  | 458 |
+| ole32.dll | CoTaskMemAlloc |  | 136 |
+| ole32.dll | CoTaskMemRealloc |  | 138 |
+| ole32.dll | CoTaskMemFree |  | 137 |
+| ole32.dll | OleRun |  | 387 |
+| ole32.dll | ProgIDFromCLSID |  | 399 |
+| ole32.dll | CLSIDFromString |  | 12 |
+| ole32.dll | CLSIDFromProgID |  | 10 |
+| ole32.dll | CoInitialize |  | 93 |
+| OLEAUT32.dll | SafeArrayGetElement | 25 | None |
+| OLEAUT32.dll | SystemTimeToVariantTime | 184 | None |
+| OLEAUT32.dll | VariantTimeToSystemTime | 185 | None |
+| OLEAUT32.dll | SafeArrayCreateVector | 411 | None |
+| OLEAUT32.dll | VarBstrCmp | 314 | None |
+| OLEAUT32.dll | SafeArrayGetLBound | 20 | None |
+| OLEAUT32.dll | SafeArrayGetUBound | 19 | None |
+| OLEAUT32.dll | SafeArrayGetDim | 17 | None |
+| OLEAUT32.dll | VarBstrCat | 313 | None |
+| OLEAUT32.dll | SafeArrayGetVartype | 77 | None |
+| OLEAUT32.dll | CreateErrorInfo | 202 | None |
+| OLEAUT32.dll | SetErrorInfo | 201 | None |
+| OLEAUT32.dll | VariantChangeTypeEx | 147 | None |
+| OLEAUT32.dll | VariantChangeType | 12 | None |
+| OLEAUT32.dll | VariantCopy | 10 | None |
+| OLEAUT32.dll | SysAllocStringLen | 4 | None |
+| OLEAUT32.dll | SafeArrayUnaccessData | 24 | None |
+| OLEAUT32.dll | SafeArrayAccessData | 23 | None |
+| OLEAUT32.dll | SysStringByteLen | 149 | None |
+| OLEAUT32.dll | SafeArrayPutElement | 26 | None |
+| OLEAUT32.dll | SafeArrayDestroy | 16 | None |
+| OLEAUT32.dll | SafeArrayCreate | 15 | None |
+| OLEAUT32.dll | VariantClear | 9 | None |
+| OLEAUT32.dll | VariantInit | 8 | None |
+| OLEAUT32.dll | SysAllocStringByteLen | 150 | None |
+| OLEAUT32.dll | UnRegisterTypeLib | 186 | None |
+| OLEAUT32.dll | RegisterTypeLib | 163 | None |
+| OLEAUT32.dll | LoadRegTypeLib | 162 | None |
+| OLEAUT32.dll | LoadTypeLib | 161 | None |
+| OLEAUT32.dll | VarUI4FromStr | 277 | None |
+| OLEAUT32.dll | SysStringLen | 7 | None |
+| OLEAUT32.dll | SysFreeString | 6 | None |
+| OLEAUT32.dll | SysAllocString | 2 | None |
+| OLEAUT32.dll | GetErrorInfo | 200 | None |
