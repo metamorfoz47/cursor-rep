@@ -1,0 +1,3 @@
+/workspace/proxy/build32/CMakeFiles/astra.dir
+/workspace/proxy/build32/CMakeFiles/edit_cache.dir
+/workspace/proxy/build32/CMakeFiles/rebuild_cache.dir
