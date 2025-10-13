@@ -1,0 +1,3 @@
+/usr/bin/cmake -E rm -f CMakeFiles/astra.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar qc CMakeFiles/astra.dir/objects.a @CMakeFiles/astra.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-gcc -O3 -DNDEBUG /workspace/proxy/proxy.def -shared -o astra.dll -Wl,--out-implib,libastra.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles/astra.dir/objects.a -Wl,--no-whole-archive @CMakeFiles/astra.dir/linkLibs.rsp
